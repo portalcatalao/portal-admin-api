@@ -29,7 +29,7 @@ import { AuthModule } from './modules/auth/auth.module';
       type: 'mysql',
       host: '193.203.175.94',
       port: 3306,
-      username: u236655385_autos',
+      username: 'u236655385_autos',
       password: 'Term228687535@',
       database: 'u236655385_autos',
       entities: ["dist/**/*.entity{.ts,.js}"],
